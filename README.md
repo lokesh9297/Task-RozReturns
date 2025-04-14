@@ -61,8 +61,8 @@ Unsupervised algorithms were applied to cluster the feature space:
 
 | Method   | Silhouette Score ↑ | DB Index ↓ |
 |----------|---------------------|-------------|
-| KMeans   | 0.23                | 1.51        |
-| HDBSCAN  | 0.38                | 0.81        |
+| KMeans   | 0.236               | 1.495       |
+| HDBSCAN  | 0.387               | 0.819       |
 
 - **KMeans** (n=4): Interpretable and simple
 - **HDBSCAN**: More robust, detects noise and irregular clusters
