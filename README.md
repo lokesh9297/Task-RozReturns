@@ -99,17 +99,6 @@ This provides insights for trading strategies or market monitoring.
 
 ---
 
-## 📦 Deliverables
-
-1. ✅ Jupyter notebook or script with full pipeline  
-2. 📄 Report (1-2 pages) covering:
-   - Feature engineering rationale
-   - Choice of clustering algorithms and metrics
-   - Cluster interpretation and regime insights
-   - Visualizations
-
----
-
 ## 🤖 Tech Stack
 - Python (NumPy, Pandas, Scikit-learn, HDBSCAN, UMAP, Matplotlib, Seaborn)
 - Jupyter Notebook for development and experimentation
